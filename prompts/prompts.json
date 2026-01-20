@@ -1,6 +1,23 @@
 [
   {
-    "prompt_name": "",
-    "prompt": ""
+    "prompt_name": "resumo-tecnico-vaga",
+    "prompt": {
+      "id": "pmpt_696ebebfa64881909a6096ffcc284de70dd32a726ea1c837",
+      "version": "1" 
+    }
+  },
+  {
+    "prompt_name": "resumo-dados-pessoais",
+    "prompt": {
+      "id": "pmpt_696ffb7f5f5481948b74240df332f2b803057f9cc42e6c53",
+      "version": "1" 
+    }
+  },
+  {
+    "prompt_name": "gerar-curriculo-texto",
+    "prompt": {
+      "id": "pmpt_696ff66d0f10819389f693a32e7558d108cfd42204b548fe",
+      "version": "1" 
+    }
   }
 ]
